@@ -62,6 +62,8 @@ If you have suggestions please feel free to submit an issue or a pull request :)
   * [Default IME with non-QWERTY keyboards (Windows)](#default-ime-with-non-qwerty-keyboards-windows)
   * [Sogou (Windows)](#sogou-windows)
   * [Gboard (Android)](#gboard-android)
+* [Interactive Browser Tools](#interactive-browser-tools)
+  * [Mandarin Chinese Flashcards](#mandarin-chinese-flashcards)
 * [Miscellaneous](#miscellaneous)
   * [chinese-shadowing](#chinese-shadowing)
   * [Chinese OCR](#chinese-ocr)
@@ -291,6 +293,13 @@ Online language platform to find teachers for 1-on-1 tutoring. I did not personn
 ### Sogou (Windows)
 
 ### Gboard (Android)
+
+## Interactive Browser Tools
+
+### [Mandarin Chinese Flashcards](https://github.com/daligao/mandarin-flashcards)
+A no-install, browser-based HSK1 vocabulary trainer for English speakers. Two modes: spaced-repetition flashcards (Know / Fuzzy / Again) and a sentence-by-sentence story reader where English appears first and Chinese is revealed on tap. Every Chinese character is clickable — tap to see pinyin, meaning, and an example sentence. Single HTML file, no login, progress saved in localStorage.
+
+* [Live demo](https://daligao.github.io/mandarin-flashcards/mandarin-flashcards.html)
 
 ## Miscellaneous
 
