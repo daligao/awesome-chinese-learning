@@ -64,6 +64,7 @@ If you have suggestions please feel free to submit an issue or a pull request :)
   * [Gboard (Android)](#gboard-android)
 * [Interactive Browser Tools](#interactive-browser-tools)
   * [Mandarin Chinese Flashcards](#mandarin-chinese-flashcards)
+  * [Chinese Writing Toolkit](#chinese-writing-toolkit-中文写作练习)
 * [Miscellaneous](#miscellaneous)
   * [chinese-shadowing](#chinese-shadowing)
   * [Chinese OCR](#chinese-ocr)
@@ -296,10 +297,17 @@ Online language platform to find teachers for 1-on-1 tutoring. I did not personn
 
 ## Interactive Browser Tools
 
-### [Mandarin Chinese Flashcards](https://github.com/daligao/mandarin-flashcards)
-A no-install, browser-based HSK1 vocabulary trainer for English speakers. Two modes: spaced-repetition flashcards (Know / Fuzzy / Again) and a sentence-by-sentence story reader where English appears first and Chinese is revealed on tap. Every Chinese character is clickable — tap to see pinyin, meaning, and an example sentence. Single HTML file, no login, progress saved in localStorage.
+### [Mandarin Chinese Flashcards](https://ordinarymantrying.com/tools/mandarin-flashcards.html)
+A no-install, browser-based HSK1–3 vocabulary trainer for English speakers. 400+ words across three HSK levels with a level filter so you can study one level at a time. Two modes: spaced-repetition flashcards (Know / Fuzzy / Again) and a sentence-by-sentence story reader where English appears first and Chinese is revealed on tap. Every Chinese character is clickable — tap to see pinyin, meaning, and an example sentence. Single HTML file, no login, progress saved in localStorage.
 
-* [Live demo](https://daligao.github.io/mandarin-flashcards/mandarin-flashcards.html)
+* [Full version — HSK1–3 (ordinarymantrying.com)](https://ordinarymantrying.com/tools/mandarin-flashcards.html)
+* [GitHub repo (HSK1 only)](https://github.com/daligao/mandarin-flashcards)
+
+### [Chinese Writing Toolkit 中文写作练习](https://ordinarymantrying.com/tools/chinese-writing-toolkit.html)
+A browser-based Chinese writing practice tool for English speakers preparing for HSK4–6 or business Chinese. Covers 11 types of applied writing: 邀请信 (invitation), 感谢信 (thank-you), 建议信 (advice), 道歉信 (apology), 申请信 (application), 通知 (notice), 演讲稿 (speech), 询问信 (inquiry), 投诉信 (complaint), 求职信 (cover letter), 自我介绍 (self-introduction). Each type comes with sentence banks, a word upgrade table (25 pairs), 13 advanced grammar patterns, 10 formal phrases, fill-in templates, and model essays with hidden English translation. Includes a bilingual writing checklist. No install, no login.
+
+* [Full version — 11 types (ordinarymantrying.com)](https://ordinarymantrying.com/tools/chinese-writing-toolkit.html)
+* [GitHub repo (9 types)](https://github.com/daligao/chinese-writing-toolkit)
 
 ## Miscellaneous
 
