@@ -85,6 +85,12 @@ Here are some decks worth noting:
 
 Many others are available on the [Anki website](https://ankiweb.net/shared/decks/chinese) and online more generally
 
+### Zero-Install Alternatives
+
+For learners who prefer to skip the Anki setup entirely:
+
+* [Mandarin Flashcards (HSK 1–3)](https://ordinarymantrying.com/tools/mandarin-flashcards/) - Browser-based flashcard tool, no install, no login. Covers 400 words across HSK1-3. Tap any character for pinyin, tone color, meaning, and example sentence. Spaced repetition via localStorage. Works offline after first load. [Open source](https://github.com/daligao/mandarin-flashcards).
+
 ### Settings  
 Training vocabulary with flashcards will take quite some time. It is, therefore, _strongly_ recommended to finely tune the settings of the deck before using it extensively. Suggestions of guides:
 * [Guide to Anki Intervals and Learning Steps](https://youtu.be/1XaJjbCSXT0)
