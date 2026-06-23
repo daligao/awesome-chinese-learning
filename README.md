@@ -319,6 +319,24 @@ Here are some Chinese OCRs for converting an image to text using the computer (I
 1. [Convertio](https://convertio.co/ocr/chinese/)
 2. [Easy ScreenOCR](https://online.easyscreenocr.com/Home/ChineseOCR)
 
+### Pinyin Annotator 拼音标注
+Paste any Chinese text and pinyin appears above every character instantly. 2,500+ character dictionary covering HSK1–6. Four-tone color coding (red/orange/green/purple). HSK level highlight. Click any character for a popup with tone and level. Works offline after first load. No login, no install — single HTML file.
+
+* [Try it free (ordinarymantrying.com)](https://ordinarymantrying.com/tools/pinyin-annotator.html)
+* [GitHub repo](https://github.com/daligao/pinyin-annotator)
+
+### [Chinese Reading Lab 历史阅读理解](https://ordinarymantrying.com/tools/chinese-reading-lab.html)
+10 real historical decisions told in Chinese at HSK4–6 level: Mandela in prison, Jobs getting fired, Musk betting on Tesla, Tu Youyou's malaria research. Read the story, make the decision before seeing the outcome, answer 3 comprehension questions. Clickable vocab popup for every highlighted word. Progress saved locally.
+
+* [Try it free (ordinarymantrying.com)](https://ordinarymantrying.com/tools/chinese-reading-lab.html)
+* [GitHub repo](https://github.com/daligao/chinese-reading-lab)
+
+### [Chengyu Stories 成语故事](https://ordinarymantrying.com/tools/chengyu-stories.html)
+20 classic 成语 with their 2,000-year-old origin stories in Chinese. Each entry: origin story in Chinese (HSK4–6) with clickable vocab popup → English translation → two modern usage examples → scenario quiz (pick the right idiom for a real-world situation). HSK4–6. Progress saved.
+
+* [Try it free (ordinarymantrying.com)](https://ordinarymantrying.com/tools/chengyu-stories.html)
+* [GitHub repo](https://github.com/daligao/chengyu-stories)
+
 ### Pinyin Converter
 It is a converter that transforms Chinese characters into pinyin. Such can be very useful, especially when creating Anki cards or else.
 1. [Lexilogos](https://www.lexilogos.com/keyboard/pinyin_conversion.htm)
