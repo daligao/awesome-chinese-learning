@@ -68,6 +68,7 @@ If you have suggestions please feel free to submit an issue or a pull request :)
   * [Pinyin Converter](#pinyin-converter)
   * [Chinese Antonyms Matching Game](#chinese-antonyms-matching-game--反义词连连看)
   * [Mandarin Flashcards — HSK 1–3](#mandarin-flashcards--hsk-13)
+  * [Chinese Measure Words Game](#chinese-measure-words-game--量词分类练习)
 * [Resource guides](#resource-guides)
 <!-- End of the table of content --> 
 
@@ -318,6 +319,10 @@ A browser-based vocabulary game with 380 opposite-word pairs (反义词) across 
 ### Mandarin Flashcards — HSK 1–3
 Browser flashcard tool with 400 HSK words (HSK 1–3), pinyin, English meanings, and example sentences. Includes Anki export.
 - [ordinarymantrying.com/tools/mandarin-flashcards.html](https://ordinarymantrying.com/tools/mandarin-flashcards.html)
+
+### Chinese Measure Words Game — 量词分类练习
+A browser-based sorting game for learning measure words (量词). Each level presents 8 nouns — sort them into the 4 correct measure word buckets. 8 progressive levels from everyday counters (个·只·张·条) to rare literary measure words (峰·株·艘). Wrong guess shakes the tile; all 8 correct to advance. Pinyin + English hints on every noun.
+- [Play online (free, no login)](https://ordinarymantrying.com/tools/chinese-measure-words.html)
 
 ## Resource guides
 
