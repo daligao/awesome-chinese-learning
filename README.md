@@ -315,6 +315,11 @@ A browser-based Chinese writing practice tool for English speakers preparing for
 * [Full version — 11 types (ordinarymantrying.com)](https://ordinarymantrying.com/tools/chinese-writing-toolkit.html)
 * [GitHub repo (9 types)](https://github.com/daligao/chinese-writing-toolkit)
 
+### [HSK Text Analyzer — 中文难度检测](https://ordinarymantrying.com/tools/hsk-text-analyzer.html)
+Paste any Chinese text — every word is instantly color-coded by HSK level (1–6). Shows cumulative comprehension percentage per level. Hover or click any word for pinyin + English meaning. Unknown words (beyond HSK 6) collected in a separate panel with one-click export. Includes 4 sample texts from HSK 2 story to HSK 6 academic essay. ~1,500-word dictionary, greedy longest-match segmentation. No login, no install, works offline.
+
+* [Full version (ordinarymantrying.com)](https://ordinarymantrying.com/tools/hsk-text-analyzer.html)
+
 ## Miscellaneous
 
 ### [chinese-shadowing](https://github.com/thomashirtz/chinese-shadowing)
