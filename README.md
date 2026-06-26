@@ -62,13 +62,12 @@ If you have suggestions please feel free to submit an issue or a pull request :)
   * [Default IME with non-QWERTY keyboards (Windows)](#default-ime-with-non-qwerty-keyboards-windows)
   * [Sogou (Windows)](#sogou-windows)
   * [Gboard (Android)](#gboard-android)
-* [Interactive Browser Tools](#interactive-browser-tools)
-  * [Mandarin Chinese Flashcards](#mandarin-chinese-flashcards)
-  * [Chinese Writing Toolkit](#chinese-writing-toolkit-中文写作练习)
 * [Miscellaneous](#miscellaneous)
   * [chinese-shadowing](#chinese-shadowing)
   * [Chinese OCR](#chinese-ocr)
   * [Pinyin Converter](#pinyin-converter)
+  * [Chinese Antonyms Matching Game](#chinese-antonyms-matching-game--反义词连连看)
+  * [Mandarin Flashcards — HSK 1–3](#mandarin-flashcards--hsk-13)
 * [Resource guides](#resource-guides)
 <!-- End of the table of content --> 
 
@@ -295,20 +294,6 @@ Online language platform to find teachers for 1-on-1 tutoring. I did not personn
 
 ### Gboard (Android)
 
-## Interactive Browser Tools
-
-### [Mandarin Chinese Flashcards](https://ordinarymantrying.com/tools/mandarin-flashcards.html)
-A no-install, browser-based HSK1–3 vocabulary trainer for English speakers. 400+ words across three HSK levels with a level filter so you can study one level at a time. Two modes: spaced-repetition flashcards (Know / Fuzzy / Again) and a sentence-by-sentence story reader where English appears first and Chinese is revealed on tap. Every Chinese character is clickable — tap to see pinyin, meaning, and an example sentence. Single HTML file, no login, progress saved in localStorage.
-
-* [Full version — HSK1–3 (ordinarymantrying.com)](https://ordinarymantrying.com/tools/mandarin-flashcards.html)
-* [GitHub repo (HSK1 only)](https://github.com/daligao/mandarin-flashcards)
-
-### [Chinese Writing Toolkit 中文写作练习](https://ordinarymantrying.com/tools/chinese-writing-toolkit.html)
-A browser-based Chinese writing practice tool for English speakers preparing for HSK4–6 or business Chinese. Covers 11 types of applied writing: 邀请信 (invitation), 感谢信 (thank-you), 建议信 (advice), 道歉信 (apology), 申请信 (application), 通知 (notice), 演讲稿 (speech), 询问信 (inquiry), 投诉信 (complaint), 求职信 (cover letter), 自我介绍 (self-introduction). Each type comes with sentence banks, a word upgrade table (25 pairs), 13 advanced grammar patterns, 10 formal phrases, fill-in templates, and model essays with hidden English translation. Includes a bilingual writing checklist. No install, no login.
-
-* [Full version — 11 types (ordinarymantrying.com)](https://ordinarymantrying.com/tools/chinese-writing-toolkit.html)
-* [GitHub repo (9 types)](https://github.com/daligao/chinese-writing-toolkit)
-
 ## Miscellaneous
 
 ### [chinese-shadowing](https://github.com/thomashirtz/chinese-shadowing)
@@ -324,6 +309,15 @@ It is a converter that transforms Chinese characters into pinyin. Such can be ve
 1. [Lexilogos](https://www.lexilogos.com/keyboard/pinyin_conversion.htm)
 2. [ChineseConverter](https://www.chineseconverter.com/en/convert/chinese-to-pinyin) (Seems to have many different nice tools, including conversion traditional<=>chinese)
 
+
+
+### Chinese Antonyms Matching Game — 反义词连连看
+A browser-based vocabulary game with 380 opposite-word pairs (反义词) across 3 difficulty levels. Every tile shows pinyin and English hints. Covers single characters (Easy) and two-character compounds (Medium/Hard). Combo scoring, hint button, 30+ rounds. Great for HSK vocab practice.
+- [Play online (free, no login)](https://ordinarymantrying.com/tools/chinese-antonyms.html)
+
+### Mandarin Flashcards — HSK 1–3
+Browser flashcard tool with 400 HSK words (HSK 1–3), pinyin, English meanings, and example sentences. Includes Anki export.
+- [ordinarymantrying.com/tools/mandarin-flashcards.html](https://ordinarymantrying.com/tools/mandarin-flashcards.html)
 
 ## Resource guides
 
