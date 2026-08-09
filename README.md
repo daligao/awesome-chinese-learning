@@ -63,7 +63,8 @@ If you have suggestions please feel free to submit an issue or a pull request :)
   * [Sogou (Windows)](#sogou-windows)
   * [Gboard (Android)](#gboard-android)
 * [Miscellaneous](#miscellaneous)
-  * [chinese-shadowing](#chinese-shadowing)
+  * [Browser-based Learning Tools](#browser-based-learning-tools)
+* [chinese-shadowing](#chinese-shadowing)
   * [Chinese OCR](#chinese-ocr)
   * [Pinyin Converter](#pinyin-converter)
   * [Chinese Antonyms Matching Game](#chinese-antonyms-matching-game--反义词连连看)
@@ -323,6 +324,18 @@ Browser flashcard tool with 400 HSK words (HSK 1–3), pinyin, English meanings,
 ### Chinese Measure Words Game — 量词分类练习
 A browser-based sorting game for learning measure words (量词). Each level presents 8 nouns — sort them into the 4 correct measure word buckets. 8 progressive levels from everyday counters (个·只·张·条) to rare literary measure words (峰·株·艘). Wrong guess shakes the tile; all 8 correct to advance. Pinyin + English hints on every noun.
 - [Play online (free, no login)](https://ordinarymantrying.com/tools/chinese-measure-words.html)
+
+
+### Browser-based Learning Tools
+Free tools that work directly in your browser with no login required:
+* [Mandarin Flashcards (HSK 1–3)](https://ordinarymantrying.com/tools/mandarin-flashcards.html): 400 essential HSK words with pinyin, audio, and spaced repetition — works offline.
+* [Pinyin Practice Tool](https://ordinarymantrying.com/tools/pinyin-practice.html): Drill initials and finals with audio feedback. Good for beginners building phonetic foundations.
+* [Tone Trainer](https://ordinarymantrying.com/tools/tone-trainer.html): Interactive four-tone recognition and production drills.
+* [Pinyin Annotator](https://ordinarymantrying.com/tools/pinyin-annotator.html): Paste any Chinese text to get pinyin annotations above every character.
+* [Radical Quiz](https://ordinarymantrying.com/tools/radical-quiz.html): Quiz yourself on the 100+ most common Chinese radicals with stroke hints.
+* [Chinese Writing Toolkit](https://ordinarymantrying.com/tools/chinese-writing-toolkit.html): 11 structured writing exercises covering sentence patterns, formal registers, and paragraph rewriting.
+* [Chengyu Stories](https://ordinarymantrying.com/tools/chengyu-stories.html): Learn 成语 (four-character idioms) through the historical stories behind them.
+* [HSK Mock Test](https://ordinarymantrying.com/tools/hsk-mock-test.html): Timed full-length HSK 1–3 practice exam in the browser.
 
 ## Resource guides
 
