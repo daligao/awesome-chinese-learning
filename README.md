@@ -329,3 +329,8 @@ A browser-based sorting game for learning measure words (量词). Each level pre
 * [/r/ChineseLanguage](https://discord.gg/Hnd9Msy)
 * [chinese-guide](https://gitlab.com/tengutengu/chinese-guide)
 * [resource-guide](https://espaspw.github.io/Resource-Guide/#Mandarin)
+
+
+## Related resource
+
+[Chinese Fortune Tools](https://chinesefortunetools.com/) — explore Chinese zodiac, calendars, and cultural guides.
